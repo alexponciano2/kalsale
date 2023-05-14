@@ -1,0 +1,4 @@
+const player = {
+    job: 'ASC',
+    
+}
