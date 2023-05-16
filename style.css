@@ -1,8 +1,9 @@
 * {
-    margin: auto;
-    padding: 0;
+    margin: auto;    
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 header {
@@ -10,7 +11,6 @@ header {
     padding-bottom: 10px;
     margin-bottom: 5px;
     display: grid;
-    gap: 3px;
 }
 
 h1 {
@@ -40,10 +40,10 @@ a {
     text-decoration: none;
 }
 
-table {
+table {    
     border: 1px solid black;
     border-collapse: collapse;
-    font-size: 0.9rem;
+    font-size: 0.9rem;    
 }
 
 .btn {
@@ -60,6 +60,7 @@ table {
 
 footer {
     margin-top: 5px;
+    font-size: 0.89rem;
 }
 
 #inicio {
