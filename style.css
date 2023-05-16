@@ -47,6 +47,10 @@ table {
     padding-bottom: 2px;
 }
 
+.btn:hover {
+    background-color: rgb(202, 202, 202);
+}
+
 footer {
     margin-top: 5px;
 }
