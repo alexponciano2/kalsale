@@ -13,8 +13,12 @@ header {
     gap: 2px;
 }
 
+h1 {
+    font-size: 1.6rem;
+}
+
 .spacebtw {
-    padding: 10px;
+    padding: 0px;
     border: 1px solid black;
 }
 
@@ -39,12 +43,13 @@ a {
 table {
     border: 1px solid black;
     border-collapse: collapse;
+    font-size: 0.9rem;
 }
 
 .btn {
     font-size: 0.6rem;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .btn:hover {
@@ -71,3 +76,4 @@ footer {
 #inicio:hover {
     background-color: rgb(184, 184, 184);
 }
+
